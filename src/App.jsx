@@ -6,7 +6,7 @@ import {
   Clock, BarChart3, Shield, Layers
 } from 'lucide-react'
 
-const FORMSPREE = 'https://formspree.io/f/xgejqkqd'
+const FORMSPREE = 'https://formspree.io/f/xvzbbrpb'
 
 // ─── Shared Components ───
 
